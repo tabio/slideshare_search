@@ -3,7 +3,6 @@ require 'digest'
 require 'net/http'
 require 'nokogiri'
 require 'openssl'
-require 'pry'
 require 'time'
 
 module SlideshareSearch
